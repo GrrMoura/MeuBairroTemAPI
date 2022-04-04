@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MmnAqKpIBUqw0YgNoZyuv5S26zri5mbDIaHnOA3zXVpTOnXFMwXnMZpiRYCtqNHD5H8N9AQw2dKMYLMuTh9/AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPI.API\\AcheFacilAPI.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geibi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\geibi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\geibi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\geibi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\geibi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\geibi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
