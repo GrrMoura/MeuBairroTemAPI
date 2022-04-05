@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cXe5Aa2NgzZQUpDXobtV9+AeuJ4nz2VMgWCiRd8+Jiblg2fYxJ0zXRf7djfOcOlwJh/OWBKNyP2gxRhL7t7luQ==",
+  "dgSpecHash": "6z8X09n55CwHmjgECaF3ZvYEAkOCxZ/hi3/6XlA573lSIQFLSOhAJtLuXgknfSweC6mloXyUavTMDfJu93qS7g==",
   "success": true,
   "projectFilePath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPI.Aplication\\AcheFacilAPI.Aplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\geibi\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

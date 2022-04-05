@@ -4,6 +4,192 @@
     "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPI.Infra.IoC\\AcheFacilAPI.Infra.IoC.csproj": {}
   },
   "projects": {
+    "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPI.Aplication\\AcheFacilAPI.Aplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPI.Aplication\\AcheFacilAPI.Aplication.csproj",
+        "projectName": "AcheFacilAPI.Aplication",
+        "projectPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPI.Aplication\\AcheFacilAPI.Aplication.csproj",
+        "packagesPath": "C:\\Users\\geibi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPI.Aplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\geibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Domain\\AcheFacilAPi.Domain.csproj": {
+                "projectPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Domain\\AcheFacilAPi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Domain\\AcheFacilAPi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Domain\\AcheFacilAPi.Domain.csproj",
+        "projectName": "AcheFacilAPi.Domain",
+        "projectPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Domain\\AcheFacilAPi.Domain.csproj",
+        "packagesPath": "C:\\Users\\geibi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\geibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Infa.Data\\AcheFacilAPi.Infa.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Infa.Data\\AcheFacilAPi.Infa.Data.csproj",
+        "projectName": "AcheFacilAPi.Infa.Data",
+        "projectPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Infa.Data\\AcheFacilAPi.Infa.Data.csproj",
+        "packagesPath": "C:\\Users\\geibi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Infa.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\geibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Domain\\AcheFacilAPi.Domain.csproj": {
+                "projectPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Domain\\AcheFacilAPi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPI.Infra.IoC\\AcheFacilAPI.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +213,17 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPI.Aplication\\AcheFacilAPI.Aplication.csproj": {
+                "projectPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPI.Aplication\\AcheFacilAPI.Aplication.csproj"
+              },
+              "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Domain\\AcheFacilAPi.Domain.csproj": {
+                "projectPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Domain\\AcheFacilAPi.Domain.csproj"
+              },
+              "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Infa.Data\\AcheFacilAPi.Infa.Data.csproj": {
+                "projectPath": "C:\\Users\\geibi\\Repositorio Local\\AcheFacilApi\\src\\AcheFacilAPi.Infa.Data\\AcheFacilAPi.Infa.Data.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
